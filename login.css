@@ -1,0 +1,37 @@
+#h1{
+    color:blueviolet;
+    text-align:center;
+    font-optical-sizing: 2px;
+    
+}
+#d1{
+    background-color: rgb(151, 192, 194);
+    width: 500px;
+    height: 250px;
+    border: 2px solid darkblue;
+}
+.c1{
+    text-align: right;
+    padding: 5px;
+    margin-left: 1px;
+}
+#l1{
+    border: 5px;
+    padding: 10px;
+    
+}
+#l2{
+    border: 5px;
+    padding: 10px;
+    margin-right: 40px;
+    
+}
+#l3{
+    border: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+#sub{
+    margin-left: 50px#;
+}
