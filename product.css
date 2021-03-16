@@ -46,7 +46,7 @@ span{
     
 }
 #div1{
-    background-color: gainsboro;
+    background-color: rgb(252, 127, 127);
 }
 #div2{
     background-color: rgb(215, 242, 166);
@@ -56,4 +56,24 @@ span{
 }
 #div4{
     background-color: rgb(192, 224, 243);
+}
+#btn1{
+    padding: 10px;
+    background-image: url("p3.jpg");
+}
+#btn2{
+    padding: 10px;
+    background-image: url("p3.jpg");
+}
+#btn3{
+    padding: 10px;
+    background-image: url("p3.jpg");
+}
+#btn4{
+    padding: 10px;
+    background-image: url("p3.jpg");
+}
+#l1{
+    border: solid rgb(139, 113, 47);
+    background-color: gray;
 }
